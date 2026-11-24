@@ -1,0 +1,151 @@
+/* ===================================================
+   Sort Dropdown Component Styling
+   Matches Scraper Dropdown aesthetic with modern polish
+   =================================================== */
+
+.sort-dropdown-wrapper {
+  position: relative;
+  display: inline-block;
+  user-select: none;
+}
+
+.sort-dropdown-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  background-color: #ffffff;
+  color: #1e293b;
+  border: 1px solid #cbd5e1;
+  border-radius: 6px;
+  padding: 7px 14px;
+  font-size: 13.5px;
+  font-family: inherit;
+  font-weight: 500;
+  cursor: pointer;
+  line-height: 1.4;
+  box-shadow: 0 1px 2px rgba(15, 23, 42, 0.05);
+  transition: all 0.15s ease;
+}
+
+.sort-dropdown-btn:hover {
+  background-color: #f8fafc;
+  border-color: #94a3b8;
+  color: #0f172a;
+}
+
+.sort-dropdown-btn:focus-visible {
+  outline: 2px solid #2874f0;
+  outline-offset: 1px;
+}
+
+.sort-dropdown-btn.active {
+  border-color: #2874f0;
+  box-shadow: 0 0 0 2px rgba(40, 116, 240, 0.18);
+  background-color: #ffffff;
+}
+
+.sort-icon-svg {
+  display: flex;
+  align-items: center;
+  color: #2874f0;
+}
+
+.sort-dropdown-label {
+  font-size: 12px;
+  font-weight: 700;
+  color: #64748b;
+  text-transform: uppercase;
+  letter-spacing: 0.4px;
+}
+
+.sort-dropdown-value {
+  font-size: 13.5px;
+  font-weight: 600;
+  color: #0f172a;
+}
+
+.sort-dropdown-chevron {
+  font-size: 9px;
+  color: #94a3b8;
+  margin-left: 2px;
+  transition: transform 0.15s ease;
+}
+
+.sort-dropdown-menu {
+  position: absolute;
+  top: calc(100% + 5px);
+  right: 0;
+  min-width: 210px;
+  background-color: #ffffff;
+  border: 1px solid #e2e8f0;
+  border-radius: 8px;
+  box-shadow: 0 10px 25px -5px rgba(15, 23, 42, 0.15), 0 8px 10px -6px rgba(15, 23, 42, 0.08);
+  padding: 6px;
+  z-index: 1000;
+  animation: sortDropdownSlide 0.15s ease-out;
+}
+
+@keyframes sortDropdownSlide {
+  from {
+    opacity: 0;
+    transform: translateY(-4px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.sort-menu-header {
+  padding: 6px 10px 6px;
+  font-size: 11px;
+  font-weight: 700;
+  color: #94a3b8;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  border-bottom: 1px solid #f1f5f9;
+  margin-bottom: 4px;
+}
+
+.sort-menu-item {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  gap: 9px;
+  padding: 8px 10px;
+  font-size: 13px;
+  font-weight: 500;
+  color: #334155;
+  background: transparent;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  text-align: left;
+  transition: all 0.12s ease;
+}
+
+.sort-menu-item:hover {
+  background-color: #f1f5f9;
+  color: #0f172a;
+}
+
+.sort-menu-item.selected {
+  background-color: #eff6ff;
+  color: #2874f0;
+  font-weight: 600;
+}
+
+.sort-item-icon {
+  font-size: 14px;
+}
+
+.sort-item-label {
+  flex: 1;
+}
+
+.sort-item-check {
+  color: #2874f0;
+  font-weight: 700;
+  font-size: 14px;
+}
+

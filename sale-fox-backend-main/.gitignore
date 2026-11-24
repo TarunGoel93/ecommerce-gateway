@@ -1,0 +1,20 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+**/__pycache__/
+**/*.py[cod]
+**/node_modules/
+**/*_profiles/
+**/*-profiles/
+**/scraped_data/
+**/*tunnel*.txt
+**/*_url.txt
+**/active_tunnel.txt
+**/ChromeFeatureState
+**/DevToolsActivePort
+**/Local State
+**/First Run
+**/Last Version
+.DS_Store

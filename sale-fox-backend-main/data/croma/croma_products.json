@@ -1,0 +1,442 @@
+[
+  {
+    "sku": "320167",
+    "product_id": "320167",
+    "title": "vivo T4 Lite 5G (4GB RAM, 64GB, Prism Blue)",
+    "brand": "Vivo",
+    "price": "₹10,999",
+    "price_num": 10999.0,
+    "mrp": "₹12,999",
+    "mrp_num": 12999.0,
+    "discount": "15%",
+    "in_stock": true,
+    "rating": 4.2,
+    "review_count": 101,
+    "specs": [
+      "Display: 6.74 inches (17.13 cm), LCD, 90 Hz Refresh Rate",
+      "Memory: 4GB RAM, 64GB ROM",
+      "Processor: MediaTek Dimensity 6300, Octa Core, 2.4 GHz",
+      "Camera: 50 MP + 2 MP Dual Rear & 5 MP Front Camera",
+      "Battery: 6000 mAh with 15W Flash Charge",
+      "IP64 Water & Dust Resistance, AI Photo Enhance, Super Night Mode"
+    ],
+    "image_url": "https://media.tatacroma.com/Croma%20Assets/Communication/Mobiles/Images/320167_0_Fi5Ik15J-.png?updatedAt=1767796639663",
+    "url": "https://www.croma.com/vivo-t4-lite-5g-4gb-ram-64gb-prism-blue-/p/320167",
+    "pincode": "110058",
+    "city": "India",
+    "bank_offers": [
+      {
+        "bank": "Tata Neu",
+        "title": "Tata Neu HDFC Credit Card",
+        "tag": "BEST OFFER",
+        "discount": "5% NeuCoins",
+        "minOrder": 2000,
+        "description": "5% NeuCoins on Electronics at Croma with Tata Neu Infinity HDFC Card."
+      },
+      {
+        "bank": "ICICI",
+        "title": "ICICI Bank Instant Discount",
+        "tag": "INSTANT OFF",
+        "discount": "Flat ₹2,000 OFF",
+        "minOrder": 20000,
+        "description": "Flat ₹2,000 Instant Discount on ICICI Bank Credit Card and EMI."
+      },
+      {
+        "bank": "Federal Bank",
+        "title": "Federal Bank Cards Discount",
+        "tag": "CARD OFF",
+        "discount": "10% Instant Discount up to ₹1,500",
+        "minOrder": 10000,
+        "description": "10% Instant Discount up to ₹1,500 on Federal Bank Credit/Debit Cards."
+      },
+      {
+        "bank": "HDFC",
+        "title": "HDFC Bank EMI Bonanza",
+        "tag": "EMI SPECIAL",
+        "discount": "Flat ₹1,500 OFF",
+        "minOrder": 20000,
+        "description": "Flat ₹1,500 Instant Discount on HDFC Bank Credit Card EMI transactions."
+      },
+      {
+        "bank": "Axis Bank",
+        "title": "Axis Bank Credit Card Off",
+        "tag": "INSTANT OFF",
+        "discount": "10% Instant Discount up to ₹1,500",
+        "minOrder": 15000,
+        "description": "10% Instant Discount up to ₹1,500 on Axis Bank Credit Cards."
+      },
+      {
+        "bank": "SBI",
+        "title": "SBI Card Instant Discount",
+        "tag": "INSTANT OFF",
+        "discount": "Flat ₹1,250 OFF",
+        "minOrder": 15000,
+        "description": "Flat ₹1,250 Off on SBI Credit Card transactions."
+      },
+      {
+        "bank": "Croma Retail",
+        "title": "Croma Verified Direct Savings",
+        "tag": "RETAIL DEAL",
+        "discount": "Flat ₹1,000 OFF",
+        "minOrder": 12000,
+        "description": "Flat ₹1,000 Instant Discount on prepaid checkout with all Bank Cards."
+      }
+    ],
+    "best_bank_offer": "5% NeuCoins on Tata Neu HDFC Card",
+    "scraped_at": "2026-11-24 14:40:16",
+    "_source_brand": "croma",
+    "_source_id": "croma-0"
+  },
+  {
+    "sku": "320168",
+    "product_id": "320168",
+    "title": "vivo T4 Lite 5G (4GB RAM, 64GB, Titanium Gold)",
+    "brand": "Vivo",
+    "price": "₹10,999",
+    "price_num": 10999.0,
+    "mrp": "₹12,999",
+    "mrp_num": 12999.0,
+    "discount": "15%",
+    "in_stock": true,
+    "rating": 4.2,
+    "review_count": 24,
+    "specs": [
+      "Display: 6.74 inches (17.13 cm), LCD, 90 Hz Refresh Rate",
+      "Memory: 4GB RAM, 64GB ROM",
+      "Processor: MediaTek Dimensity 6300, Octa Core, 2.4 GHz",
+      "Camera: 50 MP + 2 MP Dual Rear & 5 MP Front Camera",
+      "Battery: 6000 mAh with 15W Flash Charge",
+      "IP64 Water & Dust Resistance, AI Photo Enhance, Super Night Mode"
+    ],
+    "image_url": "https://media.tatacroma.com/Croma%20Assets/Communication/Mobiles/Images/320168_0_0aZdslFmv.png?updatedAt=1767795107210",
+    "url": "https://www.croma.com/vivo-t4-lite-5g-4gb-ram-64gb-titanium-gold-/p/320168",
+    "pincode": "110058",
+    "city": "India",
+    "bank_offers": [
+      {
+        "bank": "Tata Neu",
+        "title": "Tata Neu HDFC Credit Card",
+        "tag": "BEST OFFER",
+        "discount": "5% NeuCoins",
+        "minOrder": 2000,
+        "description": "5% NeuCoins on Electronics at Croma with Tata Neu Infinity HDFC Card."
+      },
+      {
+        "bank": "ICICI",
+        "title": "ICICI Bank Instant Discount",
+        "tag": "INSTANT OFF",
+        "discount": "Flat ₹2,000 OFF",
+        "minOrder": 20000,
+        "description": "Flat ₹2,000 Instant Discount on ICICI Bank Credit Card and EMI."
+      },
+      {
+        "bank": "Federal Bank",
+        "title": "Federal Bank Cards Discount",
+        "tag": "CARD OFF",
+        "discount": "10% Instant Discount up to ₹1,500",
+        "minOrder": 10000,
+        "description": "10% Instant Discount up to ₹1,500 on Federal Bank Credit/Debit Cards."
+      },
+      {
+        "bank": "HDFC",
+        "title": "HDFC Bank EMI Bonanza",
+        "tag": "EMI SPECIAL",
+        "discount": "Flat ₹1,500 OFF",
+        "minOrder": 20000,
+        "description": "Flat ₹1,500 Instant Discount on HDFC Bank Credit Card EMI transactions."
+      },
+      {
+        "bank": "Axis Bank",
+        "title": "Axis Bank Credit Card Off",
+        "tag": "INSTANT OFF",
+        "discount": "10% Instant Discount up to ₹1,500",
+        "minOrder": 15000,
+        "description": "10% Instant Discount up to ₹1,500 on Axis Bank Credit Cards."
+      },
+      {
+        "bank": "SBI",
+        "title": "SBI Card Instant Discount",
+        "tag": "INSTANT OFF",
+        "discount": "Flat ₹1,250 OFF",
+        "minOrder": 15000,
+        "description": "Flat ₹1,250 Off on SBI Credit Card transactions."
+      },
+      {
+        "bank": "Croma Retail",
+        "title": "Croma Verified Direct Savings",
+        "tag": "RETAIL DEAL",
+        "discount": "Flat ₹1,000 OFF",
+        "minOrder": 12000,
+        "description": "Flat ₹1,000 Instant Discount on prepaid checkout with all Bank Cards."
+      }
+    ],
+    "best_bank_offer": "5% NeuCoins on Tata Neu HDFC Card",
+    "scraped_at": "2026-11-24 14:40:16",
+    "_source_brand": "croma",
+    "_source_id": "croma-1"
+  },
+  {
+    "sku": "316540",
+    "product_id": "316540",
+    "title": "vivo T4 Lite 5G (4GB RAM, 128GB, Titanium Gold)",
+    "brand": "Vivo",
+    "price": "₹18,999",
+    "price_num": 18999.0,
+    "mrp": "₹28,999",
+    "mrp_num": 28999.0,
+    "discount": "34%",
+    "in_stock": true,
+    "rating": 5.0,
+    "review_count": 1,
+    "specs": [
+      "Display: 6.74 inches (17.13 cm), LCD, 90 Hz Refresh Rate",
+      "Memory: 4GB RAM, 128GB ROM",
+      "Processor: MediaTek Dimensity 6300, Octa Core, 2.4 GHz",
+      "Camera: 50 MP + 2 MP Dual Rear & 5 MP Front Camera",
+      "Battery: 6000 mAh with 15W Flash Charge",
+      "IP64 Water & Dust Resistance, AI Photo Enhance, Super Night Mode"
+    ],
+    "image_url": "https://media.tatacroma.com/Croma%20Assets/Communication/Mobiles/Images/316540_0_jkufnn.png",
+    "url": "https://www.croma.com/vivo-t4-lite-5g-4gb-ram-128gb-titanium-gold-/p/316540",
+    "pincode": "110058",
+    "city": "India",
+    "bank_offers": [
+      {
+        "bank": "Tata Neu",
+        "title": "Tata Neu HDFC Credit Card",
+        "tag": "BEST OFFER",
+        "discount": "5% NeuCoins",
+        "minOrder": 2000,
+        "description": "5% NeuCoins on Electronics at Croma with Tata Neu Infinity HDFC Card."
+      },
+      {
+        "bank": "ICICI",
+        "title": "ICICI Bank Instant Discount",
+        "tag": "INSTANT OFF",
+        "discount": "Flat ₹2,000 OFF",
+        "minOrder": 20000,
+        "description": "Flat ₹2,000 Instant Discount on ICICI Bank Credit Card and EMI."
+      },
+      {
+        "bank": "Federal Bank",
+        "title": "Federal Bank Cards Discount",
+        "tag": "CARD OFF",
+        "discount": "10% Instant Discount up to ₹1,500",
+        "minOrder": 10000,
+        "description": "10% Instant Discount up to ₹1,500 on Federal Bank Credit/Debit Cards."
+      },
+      {
+        "bank": "HDFC",
+        "title": "HDFC Bank EMI Bonanza",
+        "tag": "EMI SPECIAL",
+        "discount": "Flat ₹1,500 OFF",
+        "minOrder": 20000,
+        "description": "Flat ₹1,500 Instant Discount on HDFC Bank Credit Card EMI transactions."
+      },
+      {
+        "bank": "Axis Bank",
+        "title": "Axis Bank Credit Card Off",
+        "tag": "INSTANT OFF",
+        "discount": "10% Instant Discount up to ₹1,500",
+        "minOrder": 15000,
+        "description": "10% Instant Discount up to ₹1,500 on Axis Bank Credit Cards."
+      },
+      {
+        "bank": "SBI",
+        "title": "SBI Card Instant Discount",
+        "tag": "INSTANT OFF",
+        "discount": "Flat ₹1,250 OFF",
+        "minOrder": 15000,
+        "description": "Flat ₹1,250 Off on SBI Credit Card transactions."
+      },
+      {
+        "bank": "Croma Retail",
+        "title": "Croma Verified Direct Savings",
+        "tag": "RETAIL DEAL",
+        "discount": "Flat ₹1,000 OFF",
+        "minOrder": 12000,
+        "description": "Flat ₹1,000 Instant Discount on prepaid checkout with all Bank Cards."
+      }
+    ],
+    "best_bank_offer": "5% NeuCoins on Tata Neu HDFC Card",
+    "scraped_at": "2026-11-24 14:40:16",
+    "_source_brand": "croma",
+    "_source_id": "croma-2"
+  },
+  {
+    "sku": "323896",
+    "product_id": "323896",
+    "title": "vivo T4 Lite 5G (4GB RAM, 64GB, Titanium Gold)",
+    "brand": "Vivo",
+    "price": "₹16,999",
+    "price_num": 16999.0,
+    "mrp": "₹27,999",
+    "mrp_num": 27999.0,
+    "discount": "39%",
+    "in_stock": true,
+    "rating": 4.2,
+    "review_count": 108,
+    "specs": [
+      "Display: 6.74 inches (17.13 cm), LCD, 90 Hz Refresh Rate",
+      "Memory: 4GB RAM, 64GB ROM",
+      "Processor: MediaTek Dimensity 6300, Octa Core, 2.4 GHz",
+      "Camera: 50 MP + 2 MP Dual Rear & 5 MP Front Camera",
+      "Battery: 6000 mAh with 15W Flash Charge",
+      "IP64 Water & Dust Resistance, AI Photo Enhance, Super Night Mode"
+    ],
+    "image_url": "https://media.tatacroma.com/Croma%20Assets/Communication/Mobiles/Images/323896_0_o69eMrYqg.png?updatedAt=1781764865455",
+    "url": "https://www.croma.com/vivo-t4-lite-5g-4gb-ram-64gb-titanium-gold-/p/323896",
+    "pincode": "110058",
+    "city": "India",
+    "bank_offers": [
+      {
+        "bank": "Tata Neu",
+        "title": "Tata Neu HDFC Credit Card",
+        "tag": "BEST OFFER",
+        "discount": "5% NeuCoins",
+        "minOrder": 2000,
+        "description": "5% NeuCoins on Electronics at Croma with Tata Neu Infinity HDFC Card."
+      },
+      {
+        "bank": "ICICI",
+        "title": "ICICI Bank Instant Discount",
+        "tag": "INSTANT OFF",
+        "discount": "Flat ₹2,000 OFF",
+        "minOrder": 20000,
+        "description": "Flat ₹2,000 Instant Discount on ICICI Bank Credit Card and EMI."
+      },
+      {
+        "bank": "Federal Bank",
+        "title": "Federal Bank Cards Discount",
+        "tag": "CARD OFF",
+        "discount": "10% Instant Discount up to ₹1,500",
+        "minOrder": 10000,
+        "description": "10% Instant Discount up to ₹1,500 on Federal Bank Credit/Debit Cards."
+      },
+      {
+        "bank": "HDFC",
+        "title": "HDFC Bank EMI Bonanza",
+        "tag": "EMI SPECIAL",
+        "discount": "Flat ₹1,500 OFF",
+        "minOrder": 20000,
+        "description": "Flat ₹1,500 Instant Discount on HDFC Bank Credit Card EMI transactions."
+      },
+      {
+        "bank": "Axis Bank",
+        "title": "Axis Bank Credit Card Off",
+        "tag": "INSTANT OFF",
+        "discount": "10% Instant Discount up to ₹1,500",
+        "minOrder": 15000,
+        "description": "10% Instant Discount up to ₹1,500 on Axis Bank Credit Cards."
+      },
+      {
+        "bank": "SBI",
+        "title": "SBI Card Instant Discount",
+        "tag": "INSTANT OFF",
+        "discount": "Flat ₹1,250 OFF",
+        "minOrder": 15000,
+        "description": "Flat ₹1,250 Off on SBI Credit Card transactions."
+      },
+      {
+        "bank": "Croma Retail",
+        "title": "Croma Verified Direct Savings",
+        "tag": "RETAIL DEAL",
+        "discount": "Flat ₹1,000 OFF",
+        "minOrder": 12000,
+        "description": "Flat ₹1,000 Instant Discount on prepaid checkout with all Bank Cards."
+      }
+    ],
+    "best_bank_offer": "5% NeuCoins on Tata Neu HDFC Card",
+    "scraped_at": "2026-11-24 14:40:16",
+    "_source_brand": "croma",
+    "_source_id": "croma-3"
+  },
+  {
+    "sku": "323895",
+    "product_id": "323895",
+    "title": "vivo T4 Lite 5G (4GB RAM, 64GB, Prism Blue)",
+    "brand": "Vivo",
+    "price": "₹16,999",
+    "price_num": 16999.0,
+    "mrp": "₹27,999",
+    "mrp_num": 27999.0,
+    "discount": "39%",
+    "in_stock": true,
+    "rating": 4.2,
+    "review_count": 138,
+    "specs": [
+      "Display: 6.74 inches (17.13 cm), LCD, 90 Hz Refresh Rate",
+      "Memory: 4GB RAM, 64GB ROM",
+      "Processor: MediaTek Dimensity 6300, Octa Core, 2.4 GHz",
+      "Camera: 50 MP + 2 MP Dual Rear & 5 MP Front Camera",
+      "Battery: 6000 mAh with 15W Flash Charge",
+      "IP64 Water & Dust Resistance, AI Photo Enhance, Super Night Mode"
+    ],
+    "image_url": "https://media.tatacroma.com/Croma%20Assets/Communication/Mobiles/Images/323895_0_hheVu_cZ_.png?updatedAt=1781764864385",
+    "url": "https://www.croma.com/vivo-t4-lite-5g-4gb-ram-64gb-prism-blue-/p/323895",
+    "pincode": "110058",
+    "city": "India",
+    "bank_offers": [
+      {
+        "bank": "Tata Neu",
+        "title": "Tata Neu HDFC Credit Card",
+        "tag": "BEST OFFER",
+        "discount": "5% NeuCoins",
+        "minOrder": 2000,
+        "description": "5% NeuCoins on Electronics at Croma with Tata Neu Infinity HDFC Card."
+      },
+      {
+        "bank": "ICICI",
+        "title": "ICICI Bank Instant Discount",
+        "tag": "INSTANT OFF",
+        "discount": "Flat ₹2,000 OFF",
+        "minOrder": 20000,
+        "description": "Flat ₹2,000 Instant Discount on ICICI Bank Credit Card and EMI."
+      },
+      {
+        "bank": "Federal Bank",
+        "title": "Federal Bank Cards Discount",
+        "tag": "CARD OFF",
+        "discount": "10% Instant Discount up to ₹1,500",
+        "minOrder": 10000,
+        "description": "10% Instant Discount up to ₹1,500 on Federal Bank Credit/Debit Cards."
+      },
+      {
+        "bank": "HDFC",
+        "title": "HDFC Bank EMI Bonanza",
+        "tag": "EMI SPECIAL",
+        "discount": "Flat ₹1,500 OFF",
+        "minOrder": 20000,
+        "description": "Flat ₹1,500 Instant Discount on HDFC Bank Credit Card EMI transactions."
+      },
+      {
+        "bank": "Axis Bank",
+        "title": "Axis Bank Credit Card Off",
+        "tag": "INSTANT OFF",
+        "discount": "10% Instant Discount up to ₹1,500",
+        "minOrder": 15000,
+        "description": "10% Instant Discount up to ₹1,500 on Axis Bank Credit Cards."
+      },
+      {
+        "bank": "SBI",
+        "title": "SBI Card Instant Discount",
+        "tag": "INSTANT OFF",
+        "discount": "Flat ₹1,250 OFF",
+        "minOrder": 15000,
+        "description": "Flat ₹1,250 Off on SBI Credit Card transactions."
+      },
+      {
+        "bank": "Croma Retail",
+        "title": "Croma Verified Direct Savings",
+        "tag": "RETAIL DEAL",
+        "discount": "Flat ₹1,000 OFF",
+        "minOrder": 12000,
+        "description": "Flat ₹1,000 Instant Discount on prepaid checkout with all Bank Cards."
+      }
+    ],
+    "best_bank_offer": "5% NeuCoins on Tata Neu HDFC Card",
+    "scraped_at": "2026-11-24 14:40:16",
+    "_source_brand": "croma",
+    "_source_id": "croma-4"
+  }
+]
